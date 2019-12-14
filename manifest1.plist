@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.ondiscus.kriya</string>
+                <string>com.dbs.greenbox</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string> Larenon Kriya Application</string>
+                <string> Larenon GreenBox Application</string>
             </dict>
         </dict>
     </array>
